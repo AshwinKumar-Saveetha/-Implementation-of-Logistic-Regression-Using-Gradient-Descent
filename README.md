@@ -9,11 +9,15 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Algorithm
 
-1. Import the necessary python packages
-2. Read the dataset.
-3. Define X and Y array.
-4. Define a function for costFunction,cost and gradient.
-5. Define a function to plot the decision boundary and predict the Regression value
+1. **Load Data**: Read and preprocess the dataset.
+2. **Encode Variables**: Convert categorical features to numerical codes.
+3. **Initialize Weights**: Randomly set initial parameters.
+4. **Define Sigmoid Function**: Compute sigmoid activation.
+5. **Define Loss Function**: Calculate cross-entropy loss.
+6. **Implement Gradient Descent**: Update weights iteratively.
+7. **Make Predictions**: Use weights to generate predictions.
+8. **Calculate Accuracy**: Evaluate the accuracy of predictions.
+9. **Test New Inputs**: Predict outcomes for new data points.
 
 ## Program:
 ```
