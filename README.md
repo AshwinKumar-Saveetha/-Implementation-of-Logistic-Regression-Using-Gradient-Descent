@@ -89,7 +89,7 @@ print(y_prednew)
 ## Output:
 ![image](https://github.com/user-attachments/assets/4fba22b4-5dfd-4cbc-8b22-03b54b3fcf3e)
 ![image](https://github.com/user-attachments/assets/8f0acdd1-8a5f-41ee-816f-98718d3f89cc)
-![image](https://github.com/user-attachments/assets/c095a504-1380-494d-9da8-38d05c64a6ba)
+![image](https://github.com/user-attachments/assets/10073ff1-6b6d-4037-a7c3-dff6a8213dc8)
 ![image](https://github.com/user-attachments/assets/11836b3c-237e-4b49-a386-5d028ab69641)
 ![image](https://github.com/user-attachments/assets/ad604f90-6db9-4bc8-a0e1-bae5076b2458)
 ![image](https://github.com/user-attachments/assets/707a6d5d-b77e-49d0-b353-792147673ffc)
