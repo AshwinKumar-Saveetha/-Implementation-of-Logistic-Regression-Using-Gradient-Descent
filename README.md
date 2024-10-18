@@ -88,7 +88,7 @@ print(y_prednew)
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/b62f94d1-8be5-4535-80bb-9522c8896ca4)
+![image](https://github.com/user-attachments/assets/be0a1b41-fe0e-4825-83e3-b6f714c1a6bf)
 ![image](https://github.com/user-attachments/assets/8f0acdd1-8a5f-41ee-816f-98718d3f89cc)
 ![image](https://github.com/user-attachments/assets/c095a504-1380-494d-9da8-38d05c64a6ba)
 ![image](https://github.com/user-attachments/assets/11836b3c-237e-4b49-a386-5d028ab69641)
